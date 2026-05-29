@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcarse",
+        "uuid": 14158626,
+        "checksum": "k28y5"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
